@@ -1,0 +1,1 @@
+open https://cine-tag-delta-orpin.vercel.app
