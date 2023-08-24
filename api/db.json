@@ -1,0 +1,192 @@
+{
+  "users": [
+    {
+      "login": "andreocunha",
+      "id": 1,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+      "name": "André Oliveira Cunha",
+      "email": "andre@email.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "nataliakt",
+      "id": 2,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+      "name": "Natalia Kelim Thiel",
+      "email": "natalia@email.com",
+      "followers": 51,
+      "following": 7
+    },
+    {
+      "login": "jhonson",
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/pt/6/63/Kuririn_42311.png",
+      "name": "jhonson man",
+      "email": "jhon@gmail.com",
+      "followers": 70,
+      "following": 80,
+      "id": 3
+    },
+    {
+      "login": "jhonson",
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/pt/6/63/Kuririn_42311.png",
+      "name": "jhonson man",
+      "email": "jhon@gmail.com",
+      "followers": 70,
+      "following": 80,
+      "id": 4
+    },
+    {
+      "name": "5",
+      "login": "jhoson",
+      "email": "jhonsonman",
+      "avatar_url": "jhon@gmail.com",
+      "followers": "https://avatars.githubusercontent.com/u/89546145?v=4",
+      "following": "44",
+      "id": "55"
+    }
+  ],
+  "repos": [
+    {
+      "id": 2,
+      "name": "api-escolas",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "name": "Arduino_AVES_Telemetria",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "name": "bot_piano_tiles",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 1,
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "name": "Alura_cursos",
+      "data": "1 de jan. de 2021",
+      "postId": 1,
+      "id": 5
+    },
+    {
+      "name": "ETEC Repositorio",
+      "data": "24 de Julho de 2023",
+      "postId": 1,
+      "id": 6
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "name": "O Senhor dos Aneis",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://s3.amazonaws.com/img.iluria.com/product/80FC2C/141F26D/450xN.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clube da Luta",
+      "gender": "Acao",
+      "favorit": 0,
+      "image_url": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/96/20122166.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ponyo",
+      "favorit": 1,
+      "gender": "Acao",
+      "image_url": "https://upload.wikimedia.org/wikipedia/pt/e/e2/Ponyo_pôster.png"
+    },
+    {
+      "id": 4,
+      "name": "Akira",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjFmNWYzZjMtYWIyZi00NDVmLWIxY2EtN2RiMjZiMDk4MzcyXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Show de Truman",
+      "gender": "Aventura",
+      "favorit": 1,
+      "image_url": "https://www.imparcial.com.br//assets/images/galeria/1643759989.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Esse eh Meu Garoto",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://play-lh.googleusercontent.com/72kfQa0SmBEEKwljwLr4Owzpb1mreIMci8kye7pwQAhBjNalrdMeDeDnmhwaPUHybvAjGQ"
+    },
+    {
+      "id": 6,
+      "name": "Pulp Fiction",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://musicart.xboxlive.com/7/ac801100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+    },
+    {
+      "id": 6,
+      "name": "Kill Bill",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://tr.web.img2.acsta.net/pictures/bzp/03/28541.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cães de Aluguel",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://image.tmdb.org/t/p/w342//yONcf5ZI2VMe8EcpV7YqJDGsS6z.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ghost in the Shell",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://br.web.img2.acsta.net/pictures/17/02/13/16/43/144405.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Baby Driver",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/baby-driver-et00040794-14-03-2017-09-05-24.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Taxi Driver",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "o Poderoso Chefão",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://upload.wikimedia.org/wikipedia/pt/a/af/The_Godfather%2C_The_Game.jpg"
+    }
+  ]
+}
