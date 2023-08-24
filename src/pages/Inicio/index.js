@@ -9,7 +9,7 @@ function Inicio() {
     const [videos, setVideos] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:3000/filmes").then(resposta => resposta.json()).then(dados => {
+        fetch("https://my-json-server.typicode.com/ExecutionCSR/cine_tag/filmes").then(resposta => resposta.json()).then(dados => {
             setVideos(dados);
         });
     }, []);
